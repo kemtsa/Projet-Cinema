@@ -1,2 +1,4 @@
-# Projet-Cinema
-projet de cinéma consistant à payer des tickets pour assister en la projection cinématographique d'un film 
+
+#Projet-Cinema
+
+projet de cinéma consisant à payer des tickets pour assister a la projection cinématographique d'un film. ceci est la version back-end du projet 
